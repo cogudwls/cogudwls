@@ -1,4 +1,4 @@
-# Hyeongjin's Github
+# 💻 Hyeongjin's Github
 **안녕하세요! 아기 개발자 채형진입니다. 😄**
 
 ## ℹ️ info
