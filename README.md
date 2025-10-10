@@ -1,5 +1,6 @@
 # 💻 Hyeongjin's Github
-**안녕하세요! 아기 개발자 채형진입니다. 😄**
+**안녕하세요! 아기 개발자 채형진입니다. 😄**<br>
+**부족하지만 열심히 하겠습니다.**
 
 ## ℹ️ info
 📧 Email: hayangi0105@gmail.com<br>
