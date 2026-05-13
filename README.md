@@ -3,12 +3,10 @@
 **안녕하세요! 아기 개발자 채형진입니다.**<br>
 **부족하지만 열심히 하겠습니다.😄**
 
-
 ## ℹ️ Info
 
 📧 Email: hayangi0105@gmail.com<br>
 🏫 School: *Junior, Department of Computer Science, Yeungnam University*<br>
-
 
 ## 📚 Currently Learning
 
@@ -17,13 +15,19 @@
 - OpenCV와 Python을 활용한 이미지 및 영상 처리
 - PuTTY 기반 프로세스 관리 학습
 
-
 ## 👨‍💻 About Me
 
 - 🎓 IT 서비스 기획과 문제 해결에 관심이 있습니다.
 - 💡 사용자 관점에서 문제를 발견하고, 더 나은 서비스 흐름을 고민하는 것을 좋아합니다.
 - 🧩 개발 지식을 바탕으로 기획, 테스트, 개선 과정에 참여할 수 있는 IT 인재를 목표로 하고 있습니다.
 
+## 🧑‍💼 Experience
+
+- 2024 컴퓨터학부 소프트웨어융합전공 1학년 과대표
+- 2025 컴퓨터학부 소프트웨어융합전공 전공대표
+- 2026 컴퓨터학부 소프트웨어융합전공 전공대표
+- 아두이노 기반 토양 수분 측정 시스템 구현
+- Java 기반 슈팅 게임 구현
 
 ## 🚀 Tech Stack
 
